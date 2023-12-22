@@ -12,13 +12,13 @@
 **Current Status: Under development.**
 
 **Next Actions:**
-**Server Setup**
-- [ ] Create a virtual machine for Stackomate open source
-- [ ] Secure the machine using best practices
-- [ ] Install Docker
-- [ ] Configure Mattermost instance 
-- [ ] Configure Gitea instance
-- [ ] Configure backups
+- [ ] Server Setup:
+    - [ ] Create a virtual machine for Stackomate open source
+    - [ ] Secure the machine using best practices
+    - [ ] Install Docker
+    - [ ] Configure Mattermost instance 
+    - [ ] Configure Gitea instance
+    - [ ] Configure backups
 
 ## Stackomate Vault
 - Stores configuration, secrets and tokens encrypted.
