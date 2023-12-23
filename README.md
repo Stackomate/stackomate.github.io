@@ -27,3 +27,7 @@
 ## Stackomate Backup
 - Real-time, incremental backups for files on Linux.
 **Current Status: Under development.**
+
+## Stackomate Streams
+- An ETL-like tool to extract, transform and load data across multiple sources.
+**Current Status: Under development.**
